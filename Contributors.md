@@ -2262,6 +2262,7 @@
 - [Aliyu Gambo Aliyu](https://github.com/Aliyugambo)
 - [Cole Robinson](https://github.com/Col-R)
 - [Zach Adkins](https://github.com/zaa94/)
+- [LauraK]
 - [Ali Rihan](https://github.com/a13r1)
 - [Wairimu Ian](https://github.com/wairimu-ian)
 - [Tomer Lev](https://github.com/tomerlev001)
